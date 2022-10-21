@@ -7,7 +7,7 @@
 
 /*Styling the body with the most essential CSS Property a web should have: background, font-family, width, height, display, justify-content, align-items. */
 body {
-    background: linear-gradient(to right bottom, #0f3f, #0f3f);
+    background: linear-gradient(to right bottom, #cf9fff, #cf9fff);
     font-family: Arial, sans-serif;
     width: 100%;
     height: 100vh; /*height: 100vh; means the height of this element is equal to 100% of the viewport height. */
